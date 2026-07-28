@@ -1,4 +1,4 @@
-🐦 鳥事記 (CrapLog) — Privacy Policy
+🐦 鳥事記 — Privacy Policy
 
 A lighthearted iOS app for logging life's little absurdities — the annoying, funny, or downright ridiculous moments — with AI-generated humorous "fortune-telling" style summaries.
 
